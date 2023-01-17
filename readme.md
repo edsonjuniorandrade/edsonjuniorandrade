@@ -36,8 +36,8 @@ REST API consumption and Git experience.
     <img height="162em"src="https://github-readme-streak-stats.herokuapp.com?user=edsonjuniorandrade&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsonjuniorandrade&theme=radical&hide_border=true&langs_count=5&layout=compact&locale=pt-br" />    
   </p>
-  <p align="center">
+  <!--<p align="center">
     <img align="center" src=https://visitor-badge.laobi.icu/badge?page_id=edsonjuniorandrade.edsonjuniorandrade) />
     <img align="center" src=https://img.shields.io/github/followers/edsonjuniorandrade?label=Follow&style=social)](https://github.com/edsonjuniorandrade) />
-  </p>
+  </p> -->
 </details open>
